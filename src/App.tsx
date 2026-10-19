@@ -60,6 +60,7 @@ const DEMO_PRESETS: DemoPreset[] = [
     </ul>
   </nav>
 </header>
+
 <section class="hero">
   <h1>iPhone Duo</h1>
   <p>Hello, hello. Designed for fluid intelligence.</p>
